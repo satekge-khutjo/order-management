@@ -1,0 +1,4 @@
+2	kate	foam bath	1
+3	Alice	Lavender Candle	2
+4	Amanda	Lavender foam bath	2
+5	Jess	rose bath oil	2
